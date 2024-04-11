@@ -11,8 +11,8 @@
 #include <addons/RTDBHelper.h>
 
 /* 1. Define the WiFi credentials */
-#define WIFI_SSID "abc"
-#define WIFI_PASSWORD "12345678"
+#define WIFI_SSID "wifi_name"
+#define WIFI_PASSWORD "-------"
 
 /* 2. If work with RTDB, define the RTDB URL and database secret */
 #define DATABASE_URL "-------------" //<databaseName>.firebaseio.com or <databaseName>.<region>.firebasedatabase.app
